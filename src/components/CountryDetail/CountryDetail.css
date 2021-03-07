@@ -1,0 +1,20 @@
+.country-detail{
+    width:367px;
+    height: 380px;
+    border-radius: 10px;
+    box-shadow: 5px 5px  10px rgb(253, 251, 251);
+    background-color: rgb(201, 200, 200);
+    text-align: center;
+    margin: auto;
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+.country-detail img{
+    width: 150px;
+    margin-top: 9px;
+}
+.country-detail:hover{
+background-color: rgb(211, 252, 207);
+}
